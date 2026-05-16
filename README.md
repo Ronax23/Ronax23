@@ -1,38 +1,32 @@
 # Hi, I'm Bhavya Raheja 👋
 
 ### 🚀 Who am I
-A passionate developer and technologist, with a background in web development (MERN stack) and manufacturing/CNC operations. Currently exploring the intersection of code, automation, and digital business.
+A passionate full-stack developer and technologist with a unique background spanning web/mobile development (MERN stack, React Native) and manufacturing/CNC operations. I specialize in building smooth digital experiences and exploring the intersection of code, industrial automation, and digital business scaling.
 
 ### 🛠️ What I'm currently working on
-- Building full-stack web apps with React, Node.js, and MongoDB
-- Designing CNC/Manufacturing automation workflows and portfolio projects
-- Learning advanced data structures, UI/UX, and business operations
-
-### ⚙️ Tools I Use
-- **Languages:** JavaScript, React, Node.js, MongoDB, Java, C/C++, HTML/CSS, SQL
-- **Platforms:** GitHub, Figma
-- **Development:** VS Code, Git, RESTful APIs, Postman
-
-### 📬 How to ping me
-- Connect on [LinkedIn](https://www.linkedin.com/in/bhavya64/)
-- Email: bhavya.raheja1998@gmail.com
+- 🌐 Building scalable full-stack web and mobile applications using React, Node.js, and Expo.
+- ⚙️ Designing CNC/Manufacturing automation workflows and integration systems.
+- 🧠 Deepening my knowledge in advanced data structures, systems architecture, and UI/UX design.
 
 ---
 
-Let’s collaborate on web, automation, or digital projects!
+### ⚙️ Tech Stack & Tools
 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, Java, C, C++, HTML5, CSS3, SQL |
+| **Frameworks & Runtimes** | Node.js, Express.js, Bootstrap |
+| **Libraries & Mobile** | React.js, React Native (Expo), Mongoose |
+| **Databases & Caching** | MongoDB, Redis, Relational Databases (SQL) |
+| **CAD/CAM & Automation** | NX Siemens, Delcam (PowerMILL/FeatureCAM), CNC Workflow Integration |
+| **Business, SEO & ERP** | Tally ERP, Search Engine Optimization (SEO) |
+| **Design & Prototyping** | Figma, Adobe Photoshop, Adobe Illustrator |
+| **Dev Tools & Platforms** | Git, GitHub, VS Code, Postman, RESTful APIs |
 
-<!--
-**Ronax23/Ronax23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📬 How to reach me
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavya64/)
+- 📧 Drop me an email at [bhavya.raheja1998@gmail.com](mailto:bhavya.raheja1998@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 **Let’s collaborate!** Open to interesting projects in web/mobile development, industrial automation, or digital transformation.
