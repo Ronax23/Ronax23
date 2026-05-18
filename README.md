@@ -1,4 +1,4 @@
-# Hi, I'm Bhavya Raheja 👋
+# Hi, I'm Bhavya 👋
 
 ### 🚀 Who am I
 A passionate full-stack developer and technologist with a unique background spanning web/mobile development (MERN stack, React Native) and manufacturing/CNC operations. I specialize in building smooth digital experiences and exploring the intersection of code, industrial automation, and digital business scaling.
