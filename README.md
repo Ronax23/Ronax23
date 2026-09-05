@@ -22,6 +22,8 @@ A passionate full-stack developer and technologist with a unique background span
 | **Business, SEO & ERP** | Tally ERP, Search Engine Optimization (SEO) |
 | **Design & Prototyping** | Figma, Adobe Photoshop, Adobe Illustrator |
 | **Dev Tools & Platforms** | Git, GitHub, VS Code, Postman, RESTful APIs |
+| **Deployment** | Vercel, Renderr |
+
 
 ---
 
